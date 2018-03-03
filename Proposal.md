@@ -34,7 +34,7 @@ open data portal. In addition, socio-economic, demographic and other types of da
 ## Deliverables
 
 The major result from this project for the client will be the service request prediction model, in addition to any other interesting clustering 
-insight from the data. As the purpose of this project is to provide a better understanding of San Francisco's citizens, any relevant will be provided.  
+insight from the data. As the purpose of this project is to provide a better understanding of San Francisco's citizens, any relevant will be provided. 
 The full code will also be given, in the form of Jupyter Notebooks. The slide deck and report of this project is the last component of the full deliverable.
 
 
