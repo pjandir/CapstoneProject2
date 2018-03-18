@@ -20,5 +20,6 @@ This analysis is on-going.
 | Step | Description | File(s) |
 | --- | --- | --- |
 | Proposal | Full project proposal and idea | [report](https://github.com/pjandir/CapstoneProject2/blob/master/Proposal.md) |
+| Data wrangling | Data cleaning, wrangling, and munging | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject2/blob/master/data-wrangling.ipynb) |
 | | | | 
 
