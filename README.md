@@ -21,5 +21,9 @@ This analysis is on-going.
 | --- | --- | --- |
 | Proposal | Full project proposal and idea | [report](https://github.com/pjandir/CapstoneProject2/blob/master/Proposal.md) |
 | Data wrangling | Data cleaning, wrangling, and munging | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject2/blob/master/data-wrangling.ipynb) |
-| | | | 
+| Data exploration | Closer statistical look of the data | code |
+| Milestone report | Summary of all steps completed so far | report |
+| Model building | In-depth analysis and machine learning | code |
+| Final report | Discussion and overview of completed project | report, slide deck | 
+
 
