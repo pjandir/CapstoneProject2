@@ -13,7 +13,9 @@ This repo contains the code, data, documentation and reports for this project.
 
 ## Results
 
-This analysis is on-going.
+Using a SARIMA model, we are able to model various service request types in the multitude of census tracts of San Francisco. We can 
+predict weekly service request counts for the most popular request types in a given census tract. We further show that using demographic 
+data from the US Census, we can improve the model fit. A metric of mean absolute error is used.  
 
 ## Overview
 
@@ -22,8 +24,8 @@ This analysis is on-going.
 | Proposal | Full project proposal and idea | [report](https://github.com/pjandir/CapstoneProject2/blob/master/Proposal.md) |
 | Data wrangling | Data cleaning, wrangling, and munging | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject2/blob/master/data-wrangling.ipynb) |
 | Data exploration | Closer statistical look at the data | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject2/blob/master/data-exploration.ipynb) |
-| Milestone report | Summary of all steps completed so far | report |
-| Model building | In-depth analysis and machine learning | code |
+| Milestone report | Summary of all steps completed so far | [report](https://github.com/pjandir/CapstoneProject2/blob/master/milestone-report.pdf) |
+| Model building | In-depth analysis and machine learning | [code](https://nbviewer.jupyter.org/github/pjandir/CapstoneProject2/blob/master/model-building.ipynb) |
 | Final report | Discussion and overview of completed project | report, slide deck | 
 
 
